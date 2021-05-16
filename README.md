@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YuraMishin
-- 👀 I’m interested in C#/.Net
-- 🌱 I’m currently learning C#/.Net
+- 👀 I’m interested in Python/Java
+- 🌱 I’m currently learning Python/Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
